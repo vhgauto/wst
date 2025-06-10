@@ -77,7 +77,7 @@ b6 <- -3.58890
 b7 <- 0.18250
 
 l <- list.files(
-  path = "Matias_2025/",
+  path = "Matias_2025_RGB/",
   pattern = ".tif$",
   full.names = TRUE
 )
